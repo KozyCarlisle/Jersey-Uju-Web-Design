@@ -1,0 +1,257 @@
+@media all and (max-width: 1200px) {
+  .covering-cover {
+    height: 300px;
+}
+.text-slider {
+    padding-top: 15%;
+}
+
+
+}
+@media all and (max-width: 1130px) {
+  .join-them-today-text h2 {
+    font-size: 2.5rem;
+    padding-right: 0px;
+    margin-top: 170px;
+}
+}
+@media all and (max-width: 1024px) {
+  .navbar-default .navbar-nav > li > a {
+      font-size: 14px;
+  }
+  .covering-cover {
+    height: 300px;
+}
+
+}
+@media all and (max-width: 991px) {
+  #sm-margin {
+    margin-top: 30px;
+  }
+  .covering-cover {
+    height: 250px;
+}
+.listo {
+  display: block;
+    padding: 0px 23.5%;
+    margin: 0 auto;
+}
+}
+@media all and (max-width: 910px) {
+  .join-them-today-text h2 {
+    font-size: 2.0rem;
+    padding-right: 0px;
+    margin-top: 130px;
+}
+.join-them-today .item-btn {
+    height: 40px;
+}
+.listo {
+  display: block;
+    padding: 0px 21%;
+    margin: 0 auto;
+}
+}
+@media all and (max-width: 825px) {
+  .listo {
+    display: block;
+      padding: 0px 18.5%;
+      margin: 0 auto;
+  }
+}
+@media all and (max-width: 768px) {
+  button.navbar-toggle {
+    transform: translateY(15px);
+  }
+  .navbar-default .navbar-nav > li > a {
+      font-size: 16px;
+      font-weight: 500;
+  }
+  .sticky .cls-1{
+    fill:#fff !important;
+  }
+  .sticky .navbar-nav > li > a {
+      color: #fff !important;
+      font-size: 16px;
+  }
+  .menu-btni {
+    display: block !important;
+    margin-top: 10px;
+  }
+  .menu-btn {
+    margin-top: 15px;
+    display: none !important;
+  }
+  .dropdown-menu {
+    display: none !important;
+}
+
+.open .dropdown-menu {
+    display: block !important;
+}
+.navbar-nav > li > .dropdown-menu {
+    margin-left: 0px !important;
+    margin-top: 2px !important;
+}
+.multi-column-dropdown li a {
+    color: #fff;
+    font-size: 16px !important;
+    font-weight: 500;
+}
+.navbar-default {
+   background-color: #2b3d52 !important;
+   border-bottom: 0px !important;
+   margin-bottom: 0px !important;
+   padding-bottom: 35px;
+}
+ul.nav.navbar-nav.navbar-right {
+    margin-top: 35px;
+}
+.join-them-today-text h2 {
+    font-size: 3rem;
+    margin-top: 40px;
+    text-align: center;
+}
+.join-them-today {
+    padding: 60px 0px;
+    background-color: #FAFAFA;
+}
+.join-them-today .item-btn {
+    height: 45px;
+    display: block;
+    margin: 0 auto;
+}
+.join-them-today .no-left {
+  padding-right: 0px !important;
+}
+.listo {
+  display: block;
+    padding: 0px 15%;
+    margin: 0 auto;
+}
+#footer-marg {
+  height: auto;
+  margin-top: 30px;
+}
+#footer-marge {
+  height: auto;
+  margin-top: 30px;
+}
+#footer-marge {
+  height: auto;
+  margin-top: 30px;
+}
+.to-center {
+  text-align: center;
+}
+.to-centero {
+  display: block;
+  margin: 0 auto;
+}
+footer .no-right {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.copyright {
+    float: left !important;
+}
+.text-slider {
+    padding-top: 20%;
+}
+}
+@media all and (max-width: 695px) {
+  .listo {
+    display: block;
+      padding: 0px 11.5%;
+      margin: 0 auto;
+  }
+}
+@media all and (max-width: 640px) {
+  .title {
+    font-size: 28px;
+}
+.subtitle {
+    font-size: 18px;
+}
+.listo {
+  display: block;
+    padding: 0px 2%;
+    margin: 0 auto;
+}
+.text-slider h1 {
+    font-size: 30px;
+}
+.text-slide {
+    font-size: 20px;
+}
+.text-slider-btn button {
+    width: 190px !important;
+    height: 50px !important;
+}
+.text-slider {
+    padding-top: 30%;
+}
+ }
+ @media all and (max-width: 500px) {
+   .trusted-by .img-cover img {
+      height: 95px;
+  }
+  .text-slider {
+    padding-top: 40%;
+}
+}
+
+@media all and (max-width: 480px) {
+  .join-them-today-text h2 {
+    font-size: 2.5rem;
+    margin-top: 50px;
+    text-align: center;
+}
+ }
+
+@media all and (max-width: 415px) {
+  .text-slider h1 {
+    font-size: 20px;
+}
+.text-slide {
+    font-size: 16px;
+}
+.text-slider-btn button {
+    width: 150px !important;
+    height: 50px !important;
+}
+.text-slider {
+    padding-top: 45%;
+}
+.trusted-title {
+    font-size: 30px;
+}
+
+ }
+@media all and (max-width: 375px) {
+  .subtitle {
+    font-size: 16px;
+  }
+  .covering-cover {
+    height: 300px;
+}
+.title {
+    font-size: 24px;
+}
+.join-them-today-text h2 {
+    font-size: 2rem;
+}
+.join-them-today .item-btn {
+    height: 40px;
+}
+.text-slider-btn button {
+    width: 150px !important;
+    font-size: 14px;
+    height: 50px !important;
+}
+.trusted-title {
+    font-size: 24px;
+}
+}
+
+@media all and (max-width: 320px) { }
